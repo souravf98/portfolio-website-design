@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --Btn: #FD6E0A;
+    --Bg-Color: #FFF8F3;
+    --Open-Sans: 'Open Sans', sans-serif;
+  }
+
+  /* Main Info */
+
+h1{font-size: 36px;} h2{font-size: 24px;} h3{font-size: 16px;} p{font-size: 10px;}
+
+section{
+    margin: 100px auto;
+}
+.Container{
+    max-width: 1140px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
